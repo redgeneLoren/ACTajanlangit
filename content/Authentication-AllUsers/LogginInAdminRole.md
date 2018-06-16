@@ -10,7 +10,7 @@ In using the application requires you to log in using the URL: `http://actajanla
 
  The `credentials` are created by the assigned `admin` base on `role assignment`. 
 
- <u>`Unregistered Users`</u>
+ <ins>`Unregistered Users`</ins>
 
  - For `unregistered users` you may send an email request to the assigned `admin` for registration.
 
@@ -18,13 +18,13 @@ In using the application requires you to log in using the URL: `http://actajanla
  
  - Once confirmed by the `admin` you will receive an email message confirming your registered `email` and `password`. 
  
- - Then, access the URL: `http://actajanlangit.herokuapp.com` to log in to the application.
+ - Then, access the URL: `http://actajanlangit.herokuapp.com` to log in.
 
  - Type in your `registered email` inside the `textbox` below the text label: `Email`. Then, type in your `registered password` inside the `textbox` below the text label: `Password`. 
  
  - Click on the `Sign me in` button to enter the application.
 
-<u>`Registered Users`</u>
+<ins>`Registered Users`</ins>
 
 - For `registered users` you may access the application using the URL : `http://actajanlangit.herokuapp.com` .
 
