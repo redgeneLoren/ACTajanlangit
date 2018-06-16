@@ -1,4 +1,4 @@
-# Authentication - All Users
+# Authentication
 
 ### Log in Page
 
@@ -37,5 +37,5 @@ In using the application requires you to log in using the URL: `http://actajanla
 
 - `Remember Me` -  It is a checkbox feature where the application will remember your sign in credentials for future log in.
 
-- `Forgot Password?` - It is a hyperlink feature where you can be able to reset your password to renew your old password. 
+- `Forgot Password?` - It is a hyperlink feature where you can be able to reset your password to get a new password. 
 
