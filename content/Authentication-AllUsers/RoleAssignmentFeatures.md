@@ -40,6 +40,60 @@ In using the application requires you to log in using the URL: `http://actajanla
 
     `Non-Admin (user) - User Authentication Feature`
 
-    - View Profile
+    - View their personal profile
+    - Update their personal profile
 
-    - 
+<strong>`Role Assignment Features`</strong>
+
+There are different `job roles` in using the application. These job roles are called `role assignment per feature` to the system. Below are the different `role assignment per feature`.
+
+1. `Cost Engineer` - The role of the `cost engineer` is to estimate the cost of projects, analyze requirements and specification of a project and determine the cost involved to execute such project. In the `AC Tajanlangit system` the role assignment feature of a `Cost Engineer` are as follows:
+    
+    - View details of material scopes and schedules
+    - Create material items schedules
+    - Submit material items schedules for approval
+    - Create job Order
+    - Create billing for accounting
+    - View gantt chart
+
+2. `Planner` - The role of a `planner` is to develop a plan to complete a project based on budget, work schedule and available resources. In the `AC Tajanlangit system` the role assignment feature of a `Planner` are as follows:
+
+    - Submit material scopes and schedules for approval
+    - Upload material scopes and schedules 
+
+3. `Purchasing Officer` - The role of a `Purchasing officer` is to research on potential vendors, compare and evaluate offers from suppliers and negotiate contract terms of agreement and pricing. In the `AC Tajanlangit system` the role assignment feature of a `Purchasing Officer` are as follows:
+
+    - Submit purchase request for approval 
+    - Create purchase orders from purchase request
+    - Create service purchase order from job order
+    - View list of all purchase orders
+    - View list of all service purchase orders
+    - Edit purchase order
+    - View list of purchase requests
+    - Edit purchase request
+
+4. `Warehouse Man` - The role of `Warehouse man` is to receive and process incoming stocks and materials, picking and filing orders from stock, packing and shipping orders and managing stock in the warehouse. In the `AC Tajanlangit system` the role assignment feature of a `Warehouse man` are as follows: 
+
+    - View list of approved and incoming purchase orders
+    - Check and note received items from purchase order document.
+
+5. `Accounting` - The role of `Accounting` is responsible for the general ledger, job cost, bank reconciliations and accounts payable. In the `AC Tajanlangit system` the role assignment feature of the `Accounting` are as follows:
+
+    - View list of purchase orders
+    - View details of a service purchase order
+    - Mark service purchase order as completed
+    - View list of purchase orders 
+    - View details of a purchase order
+    - Mark purchase order as completed
+    - View list of billings
+    - View details of billings
+    - Confirm billings from Cost Engineer
+    - Leave remarks to Service Purchase orders
+    - Leave remarks to Billings
+
+6. `Project Manager`
+
+    - Request approval for changes of activity duration, start and finish
+    - Ability to check purchase request
+    - List of purchase requests
+    - View details of purchase request
