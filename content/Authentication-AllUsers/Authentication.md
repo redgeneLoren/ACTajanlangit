@@ -73,11 +73,11 @@ Using the `AC Tajanlangit System` requires you to log in using the URL: `http://
  
  However, a single <b>user</b> can have <strong>multiple roles</strong> in the application.
 
+### User Authentication Feature - Admin Role
+
 <ins>`Admin Role`</ins>
 
 - The `admin role` is also known as the <strong>super admin</strong>. The <b>super admin</b> has access to all features of the application. The <b>super admin</b> is also in charge with the registration of users to gain access to the application.
-
-### User Authentication Feature - Admin Role
 
 - In the `User Authentication feature` the <b>admin role</b> also known as <b>super admin</b> has access to the following:
 
@@ -93,11 +93,11 @@ Using the `AC Tajanlangit System` requires you to log in using the URL: `http://
     - View user details
     - Change credentials/password of users.
 
+### User Authentication Feature - Non-Admin Role
+
 <ins>`Non-Admin Role`</ins>
 
 - The <b>non-admin</b> role is the <strong>user</strong> who has limited access to the feature of the application.
-
-### User Authentication Feature - Non-Admin Role
 
 - In the `User Authentication feature` the <b>non-admin</b> also known as the <strong>`user`</strong> has access to the following:
 
