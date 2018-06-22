@@ -69,7 +69,7 @@ Using the `AC Tajanlangit System` requires you to log in using the URL: `http://
 
 ## <ins>Admin and Non-Admin Role </ins>
 
- `Role assignment` is divided into two roles: <b>Admin Role</b> and <b>Non-Admin Role</b>. Each role has different access to the features of the application. 
+ An `Admin and Non-admin role` have different access to the features of the application. 
  
  However, a single <b>user</b> can have <strong>multiple roles</strong> in the application.
 
