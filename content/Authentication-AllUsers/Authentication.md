@@ -69,9 +69,7 @@ Using the `AC Tajanlangit System` requires you to log in using the URL: `http://
 
 ## <ins>Admin and Non-Admin Role </ins>
 
- `Admin and Non-admin roles` have different access to the features of the application. 
- 
- However, a single <b>user</b> can have <strong>multiple roles</strong> in the application.
+ `Admin and Non-admin roles` have different access to the features of the application. However, a single <b>user</b> can have <strong>multiple roles</strong> in the application.
 
 ### User Authentication Feature - Admin Role
 
@@ -99,7 +97,7 @@ Using the `AC Tajanlangit System` requires you to log in using the URL: `http://
 
 - The <b>non-admin</b> is the <strong>user</strong> who has limited access to the feature of the application.
 
-- In the `User Authentication feature` the <b>non-admin</b> also known as the <strong>`user`</strong> has access to the following:
+- In the `User Authentication feature` the <b>non-admin</b> has access to the following:
 
     `Non-Admin (user) Features - User Authentication Feature`
 
@@ -108,7 +106,7 @@ Using the `AC Tajanlangit System` requires you to log in using the URL: `http://
 
 <hr />
 
-## <ins>Other Role Assignment Features</ins>
+## <ins>Job Roles/ins>
 
 There are different `job roles` in using the application. Job roles have specific `role assignment per feature` to the system. Below are the different `role assignment per feature`.
 
