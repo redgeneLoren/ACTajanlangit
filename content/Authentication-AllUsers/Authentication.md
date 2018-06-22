@@ -67,7 +67,7 @@ Using the `AC Tajanlangit System` requires you to log in using the URL: `http://
 <hr />
 
 
-## <ins>Role Assignment</ins>
+## <ins>Admin and Non-Admin Role </ins>
 
  `Role assignment` is divided into two roles: <b>Admin Role</b> and <b>Non-Admin Role</b>. Each role has different access to the features of the application. 
  
@@ -108,7 +108,7 @@ Using the `AC Tajanlangit System` requires you to log in using the URL: `http://
 
 <hr />
 
-## <ins>Role Assignment Features</ins>
+## <ins>Other Role Assignment Features</ins>
 
 There are different `job roles` in using the application. Job roles have `role assignment per feature` to the system. Below are the different `role assignment per feature`.
 
